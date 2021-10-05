@@ -1,0 +1,4 @@
+[submodule "mapgen"]
+	path = mapgen
+	url = https://github.com/g-e0s/mapgen.git
+	branch = develop
